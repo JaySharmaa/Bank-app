@@ -1,0 +1,27 @@
+Deposited 12.5
+Withdrew 10.01
+Deposited 12.5 			 Balance: 63.0
+Withdrew 10.01 			 Balance: 52.99
+Deposited 5.0 			 Updated Balance: 55.5
+Withdrew 4.0 			 Updated Balance: 46.5
+
+Deposited 3.0 			 Updated Balance: 53.5
+
+Withdrew 500.0 			 Updated Balance: -449.5
+
+Withdrew 1.0 			 Updated Balance: 49.5
+
+Withdrew 2.0 			 Updated Balance: 48.5
+
+Deposited 5.0 			 Updated Balance: 55.5
+
+
+(2022-02-24) 
+Deposit : 500.0
+Current balance : 500.0
+Time : 18:08:45
+
+(2022-02-24) 
+Withdraw : 100.0
+Current balance : 400.0
+Time : 18:08:54
